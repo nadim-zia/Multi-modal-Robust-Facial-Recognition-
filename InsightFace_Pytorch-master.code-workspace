@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ledblink",
+			"path": "../../../../Documents/PlatformIO/Projects/ledblink"
+		},
+		{
+			"name": "blink.py",
+			"path": "../../../../Documents/PlatformIO/Projects/blink.py"
+		},
+		{
+			"name": "blink12.py",
+			"path": "../../../../Documents/PlatformIO/Projects/blink12.py"
+		}
+	],
+	"settings": {}
+}

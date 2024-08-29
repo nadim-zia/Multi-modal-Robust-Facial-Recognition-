@@ -1,0 +1,10 @@
+
+
+conda install -c anaconda opencv=3.4.2
+conda install -c conda-forge tqdm=4.59.0
+conda install -c anaconda pandas=1.2.3
+conda install -c anaconda scikit-image=0.17.2
+conda install -c conda-forge prettytable=2.1.0
+conda install -c anaconda mxnet=1.5.0
+
+conda install -c anaconda joblib=1.0.1
